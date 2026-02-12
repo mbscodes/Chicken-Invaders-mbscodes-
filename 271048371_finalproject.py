@@ -1,6 +1,4 @@
 # MUHAMMAD BIN MUHAMMAD SALEEM
-# COMP111||SECTION A||FINAL PROJECT 
-# ROLL NUMBER: 271048371 
 
 import pygame
 import random
@@ -425,3 +423,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
