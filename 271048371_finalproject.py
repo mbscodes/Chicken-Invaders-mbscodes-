@@ -1,4 +1,4 @@
-# MUHAMMAD BIN MUHAMMAD SALEEM
+# Chicken Invavders - PYGAME 
 
 import pygame
 import random
@@ -423,4 +423,5 @@ def main():
 
 if __name__ == "__main__":
     main()
+
 
